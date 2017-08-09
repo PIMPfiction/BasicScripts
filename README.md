@@ -20,11 +20,11 @@ Just simple scripts for your simple works, automated commands and outputting.You
 
 
 
-
-	Contact me if you have any idea about how can i improve this scripts or any kind
-	of suggestions about scripts. @KuByakuya -- twitter
-		If you are new starter on linux, nash scripting,i can show you path about that.
-		I cant improve my bash scripting for 2-3 month,i have so many things to do.
-				I just looked stackoverflow.com for how to assign variable to a comment or things
-				like that.
+        $$$$                                                                                                      $$$$
+			Contact me if you have any idea about how can i improve this scripts or any kind of				 			 suggestions about scripts. @KuByakuya -- twitter
+			If you are new starter on linux, nash scripting,i can show you path about that.
+			I cant improve my bash scripting for 2-3 month,i have so many things to do.
+			I just looked stackoverflow.com for how to assign variable to a comment or things
+			like that.
 	
+	$$$$                                                                                                        $$$$
