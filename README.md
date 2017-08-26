@@ -28,3 +28,11 @@ Just simple scripts for your simple works, automated commands and outputting.You
 			like that.
 	
 	$$$$                                                                                                        $$$$
+
+3. LogSender.sh
+	
+	Automated linux commands for sending server logs to Log Management programs, some of LogManagement programs handling sended logs 
+	automatically like ELK stack, some of them need to be configured for listening tcp/udp ports(splunk).This script sends log file
+	then copies it to another file,checks log file for new logs while sending current logs.LogManagement app ip and destination port
+	will take value from user,if you want to automate this log sending script via watch command in linux you should give values to 
+	arguments in script.
