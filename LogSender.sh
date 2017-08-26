@@ -20,7 +20,6 @@ sleep 5
 if grep -Fxq "GET" $logfile
 then
 	echo "New requests are handling now,they will be sending soon."
-
 else
 	echo " No Request Yet" 
 	sleep 5
