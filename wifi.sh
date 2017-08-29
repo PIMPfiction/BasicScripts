@@ -1,5 +1,7 @@
-#!/bin/bash
+#Author: Goktug Cetin
+#ShellScript (bash)
 
+#!/bin/bash
 
 wifichip=$(sudo airmon-ng | grep -v Driver | awk -F" " {'print $2'})
 echo -e "Your avaible wifi card here,select one for start process"
