@@ -1,3 +1,6 @@
+#Author: Goktug Cetin
+#ShellScript (bash)
+
 #!/bin/bash
 
 path=$(pwd)
