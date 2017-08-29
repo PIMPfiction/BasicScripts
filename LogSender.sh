@@ -1,5 +1,6 @@
 #Author: Goktug Cetin
 #ShellScript (bash)
+
 #!/bin/bash
 
 echo -e " Address for send logs to"
